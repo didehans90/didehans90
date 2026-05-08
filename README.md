@@ -1,6 +1,5 @@
 # IT and Tech Enthusiast
-
-## Currently Learning:
+> Currently Learning:
 - Networking
 - Cloud Computing
 - And many other stuff
