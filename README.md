@@ -1,6 +1,8 @@
-👋 Hai, I mainly do stuff related to IT
+I'm Dide, or you can call me Karl/Max. 👋
+IT enthusiast, eng/de
+
 > Currently Learning:
-- Networking
-- Cloud Computing
-- Kubernetes
-- Terraform
+- Networking 🌐
+- Cloud Computing ☁️
+- Kubernetes 🟦
+- Terraform ⚙️
