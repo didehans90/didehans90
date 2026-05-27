@@ -1,6 +1,6 @@
 I'm @didehans90, or you can call me Karl/Max. 👋
 
-IT enthusiast, eng/de
+IT Enthusiast, Eng/De
 
 > Currently Learning:
 - Networking 🌐
