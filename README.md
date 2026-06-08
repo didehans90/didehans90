@@ -3,6 +3,7 @@ I'm @didehans90, or you can call me Karl/Max. 👋
 IT Enthusiast, Eng/De
 
 > Currently Learning:
+- Python 🐍
 - Networking 🌐
 - Cloud Computing ☁️
 - Kubernetes 🟦
