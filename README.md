@@ -15,7 +15,3 @@ IT Enthusiast, Eng/De
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## OS/Distros
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Linux' src='https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=Linux&logoColor=white&labelColor=black&color=black'/></a>
-
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Linux Mint' src='https://img.shields.io/badge/Linux_Mint-100000?style=for-the-badge&logo=Linux Mint&logoColor=white&labelColor=4CF02A&color=4CF02A'/></a>
