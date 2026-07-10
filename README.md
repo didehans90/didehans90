@@ -17,4 +17,5 @@ IT Enthusiast, Eng/De
 
 ## OS/Distros
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Linux' src='https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=Linux&logoColor=white&labelColor=black&color=black'/></a>
+
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Linux Mint' src='https://img.shields.io/badge/Linux_Mint-100000?style=for-the-badge&logo=Linux Mint&logoColor=white&labelColor=4CF02A&color=4CF02A'/></a>
