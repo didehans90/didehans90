@@ -1,4 +1,4 @@
-I'm @didehans90, or you can call me Karl/Max. 👋
+I'm @didehans90, or you can call me Dide/Karl. 👋
 
 IT Enthusiast, Eng/De
 
